@@ -1,0 +1,4 @@
+.DS_Store
+cron.log
+watchdog.db
+config_live.php
